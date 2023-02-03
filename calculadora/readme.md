@@ -1,0 +1,1 @@
+!{la foto calculadora}(calculadora.pgp)
